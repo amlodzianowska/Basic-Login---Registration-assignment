@@ -1,0 +1,54 @@
+.new-ninja {
+    width: 500px;
+    background-color: #e9b9b3;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 10px;
+}
+
+.container {
+    width: 1000px;
+    padding: 50px;
+    border: 2px solid #e9b9b3;
+    background-image: linear-gradient(to bottom right, #2e2f3027, #2e2f3027, #0000005d);
+    border-radius: 20px;
+    border: none;
+}
+
+.row {
+    gap: 30px;
+}
+.nav-h2 {
+    display: inline;
+}
+
+.btn {
+    background-color: #7a6ec9;
+    color: whitesmoke;
+    border: none;
+}
+
+.col > h2 {
+    display: inline;
+}
+
+
+.add-ninja {
+    font-size: 1.2rem;
+    color: #7a6ec9;
+}
+
+body {
+    margin-top: 30px;
+}
+
+.form {
+    margin-top: 20px;
+}
+
+.light {
+    font-weight: lighter;
+}
